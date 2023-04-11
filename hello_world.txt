@@ -1,2 +1,1 @@
 This is some text for testing purpose.
-test for nova ssh
